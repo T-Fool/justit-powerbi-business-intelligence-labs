@@ -4,7 +4,7 @@
 For my final BI project at the justIT Data Skills Bootcamp, I developed a comprehensive sales dashboard in Power BI. The dashboard analyzes performance by tracking key metrics like sales revenue, profit margin, and order quantity across different countries, product categories, and time periods.
 
 #### Live Interactive Dashboard on the Power BI Service
-<iframe title="Sales Analysis-Dashboard-report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzZkYjAyMzUtMDJjMy00MGVhLTg0MzEtNWYzYjhmZjdmNWRlIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9" frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/view?r=eyJrIjoiNzZkYjAyMzUtMDJjMy00MGVhLTg0MzEtNWYzYjhmZjdmNWRlIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9
 
 #### Sales dashboard
 <img width="965" height="538" alt="powerbi-dashboard-overview" src="https://github.com/user-attachments/assets/23de8a81-bd16-4719-82d4-6698737de4b4" />
